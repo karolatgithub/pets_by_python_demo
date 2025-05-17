@@ -10,7 +10,7 @@ bedac w katalogu zrodel wykonac polecenie z linii komend
 python my_pets.py
 ```
 
-powinien sie wyswietlic napisy na konsoli
+powinny sie wyswietlic napisy w konsoli
 
 ```
 Moje zwierzeta po kolei: (Milunia{age:18}, Nori{age:20}, Rudy{age:8}, Dasza{age:4}, Kot{age:2})
