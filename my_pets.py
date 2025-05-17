@@ -1,5 +1,5 @@
-from cat_class import Cat
-from dog_class import Dog
+from classes.cat_class import Cat
+from classes.dog_class import Dog
 
 my_pets=(Cat('Milunia', 18), Dog(), Cat('Rudy', 8), Dog('Dasza', 4),
         Cat('Kot', 2))

@@ -1,4 +1,4 @@
-from pet_class import Pet as Pet_imported
+from classes.pet_class import Pet as Pet_imported
 
 class Cat(Pet_imported):
     """ Kot """

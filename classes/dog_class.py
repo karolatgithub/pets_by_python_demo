@@ -1,5 +1,5 @@
 from random import randint as randint_std
-from pet_class import Pet as Pet_imported
+from classes.pet_class import Pet as Pet_imported
 
 class Dog(Pet_imported):
     """ Pies """
